@@ -11,7 +11,7 @@ import sys
 import urllib.request
 
 USER = "amkkoussay"
-OUT = sys.argv[1] if len(sys.argv) > 1 else "assets/stats.svg"
+OUT = sys.argv[1] if len(sys.argv) > 1 else "assets/card-stats.svg"
 
 TOKEN = os.environ.get("GITHUB_TOKEN")
 HEADERS = {"Accept": "application/vnd.github+json", "User-Agent": "profile-stats-card"}
@@ -84,7 +84,7 @@ bars = []
 by = 178
 for l in langs:
     pct = l["pct"]
-    pct_label = f"{pct:.0%}" if pct >= 0.005 else "<1%"
+    pct_label = f"{pct:.0%}" if pct >= 0.005 else "&lt;1%"
     bars.append(
         f'<text x="620" y="{by}" font-family="Georgia, \'Times New Roman\', serif" font-size="20" fill="#dfe9ff">{l["name"]}</text>\n'
         f'<text x="1130" y="{by}" text-anchor="end" font-family="\'DejaVu Sans Mono\', monospace" font-size="19" fill="#8fa8d8">{pct_label}</text>\n'
