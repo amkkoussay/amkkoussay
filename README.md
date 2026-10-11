@@ -83,11 +83,11 @@ Full list with verification links on [my portfolio](https://koussay-portfolio.ve
 
 ---
 
-<img width="100%" src="./assets/signature.svg" alt="Koussay Mehdouani — programmer and poet, night card" />
+<img width="100%" src="https://raw.githubusercontent.com/amkkoussay/amkkoussay/master/assets/card-signature.svg" alt="Koussay Mehdouani — programmer and poet, night card" />
 
 ### Live stats
 
-<img width="100%" src="./assets/stats.svg" alt="Live GitHub stats — refreshed daily by a GitHub Action" />
+<img width="100%" src="https://raw.githubusercontent.com/amkkoussay/amkkoussay/master/assets/card-stats.svg" alt="Live GitHub stats — refreshed daily by a GitHub Action" />
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=amkkoussay&color=0a1628&style=flat-square&label=profile+views" alt="profile views" />
