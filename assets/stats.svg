@@ -108,7 +108,7 @@
 <rect x="620" y="382" width="18.2" height="14" rx="7" fill="#563d7c"/>
 
 <text x="620" y="434" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="#dfe9ff">Shell</text>
-<text x="1130" y="434" text-anchor="end" font-family="'DejaVu Sans Mono', monospace" font-size="19" fill="#8fa8d8"><1%</text>
+<text x="1130" y="434" text-anchor="end" font-family="'DejaVu Sans Mono', monospace" font-size="19" fill="#8fa8d8">&lt;1%</text>
 <rect x="620" y="446" width="510" height="14" rx="7" fill="#16294f"/>
 <rect x="620" y="446" width="0.4" height="14" rx="7" fill="#89e051"/>
 
