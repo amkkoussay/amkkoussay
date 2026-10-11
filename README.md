@@ -83,17 +83,6 @@ Full list with verification links on [my portfolio](https://koussay-portfolio.ve
 
 ---
 
-### Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amkkoussay&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a1628&amp;title_color=93c5fd&amp;icon_color=93c5fd" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkkoussay&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a1628&amp;title_color=93c5fd" alt="Top languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=amkkoussay&color=1e3a8a&style=flat-square&label=profile+views" alt="profile views" />
-</div>
+<img width="100%" src="./assets/signature.svg" alt="Koussay Mehdouani — programmer and poet, night card" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3a8a,100:0a1628&amp;height=120&amp;section=footer"/>
