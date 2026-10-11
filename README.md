@@ -1,9 +1,9 @@
 <!-- Profile README for github.com/amkkoussay — shown on the profile page -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,100:1e3a8a&height=230&section=header&text=Koussay%20Mehdouani&fontSize=56&fontColor=eaf2ff&animation=fadeIn&fontAlignY=36&desc=Programmer%20%26%20poet%20—%20applied%20AI%20for%20health%2C%20agriculture%20%26%20risk&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0a1628,100:1e3a8a&amp;height=230&amp;section=header&amp;text=Koussay%20Mehdouani&amp;fontSize=56&amp;fontColor=eaf2ff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Programmer%20and%20poet%20%E2%80%94%20applied%20AI%20for%20health%2C%20agriculture%20and%20risk&amp;descAlignY=58&amp;descAlign=50"/>
 
 <div align="center">
   <a href="https://github.com/amkkoussay">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=93C5FD&center=true&vCenter=true&width=640&lines=I+build+systems+that+know+when+NOT+to+decide.;Applied+AI+for+health%2C+agriculture+%26+climate+risk.;From+Tunisia+%E2%80%94+coding%2C+writing%2C+exploring." alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1200&amp;color=93C5FD&amp;center=true&amp;vCenter=true&amp;width=640&amp;lines=I+build+systems+that+know+when+NOT+to+decide.;Applied+AI+for+health%2C+agriculture+%26+climate+risk.;From+Tunisia+%E2%80%94+coding%2C+writing%2C+exploring." alt="typing animation" />
   </a>
 </div>
 
@@ -86,8 +86,8 @@ Full list with verification links on [my portfolio](https://koussay-portfolio.ve
 ### Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amkkoussay&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=93c5fd&icon_color=93c5fd" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkkoussay&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a1628&title_color=93c5fd" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amkkoussay&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a1628&amp;title_color=93c5fd&amp;icon_color=93c5fd" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkkoussay&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0a1628&amp;title_color=93c5fd" alt="Top languages" />
 </div>
 
 <br/>
@@ -96,4 +96,4 @@ Full list with verification links on [my portfolio](https://koussay-portfolio.ve
   <img src="https://komarev.com/ghpvc/?username=amkkoussay&color=1e3a8a&style=flat-square&label=profile+views" alt="profile views" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0a1628&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1e3a8a,100:0a1628&amp;height=120&amp;section=footer"/>
