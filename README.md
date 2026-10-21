@@ -1,101 +1,131 @@
-<!-- Profile README for github.com/amkkoussay — Cinematic edition -->
+<!-- Profile README for github.com/amkkoussay — Colorful & interactive edition -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:070b1f,55:312e81,100:0f766e&amp;height=220&amp;section=header&amp;text=Koussay%20Mehdouani&amp;fontSize=54&amp;fontColor=eaf2ff&amp;fontAlignY=38&amp;desc=Programmer%20and%20poet%20%E2%80%94%20building%20careful%20software&amp;descAlignY=60&amp;descAlign=50" alt="Koussay Mehdouani profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EE7752,23:E73C7E,50:23A6D5,100:23D5AB&amp;height=200&amp;section=header&amp;text=Koussay%20Mehdouani&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Programmer%20and%20poet%20%E2%80%94%20building%20careful%20software&amp;descAlignY=62&amp;descAlign=50" alt="Koussay Mehdouani — programmer and poet" />
 
-  <p><b>AN EDITORIAL PROFILE</b></p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;pause=1000&amp;color=7DD3FC&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=Programmer+%26+poet;Honesty+engineering;Building+careful+software" alt="Programmer and poet — honesty engineering — building careful software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;pause=900&amp;color=FF6EC7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Applied+AI+for+real+problems;Honesty+engineering;Rain2Risk+%C2%B7+CropGuide+AI+%C2%B7+Clinical+AI+research" alt="Applied AI for real problems — honesty engineering" />
 
   <p>
-    <a href="https://koussay-portfolio.vercel.app/">Portfolio</a> ·
-    <a href="https://www.linkedin.com/in/koussay-mehdouani-45560a389">LinkedIn</a> ·
-    <a href="https://doi.org/10.5281/zenodo.22883408">Research</a>
+    <a href="https://koussay-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/koussay-mehdouani-45560a389"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://doi.org/10.5281/zenodo.22883408"><img src="https://img.shields.io/badge/Zenodo-Paper-0D3B66?style=for-the-badge&amp;logo=zenodo&amp;logoColor=white" alt="Zenodo paper" /></a>
+    <a href="mailto:koussaymehdouani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Open_to-Training-brightgreen?style=flat-square" alt="Open to training" />
+    <img src="https://img.shields.io/badge/Bac-2028-blueviolet?style=flat-square" alt="Bac 2028" />
+    <img src="https://img.shields.io/badge/Focus-Applied_AI_%26_Data-ff69b4?style=flat-square" alt="Focus: applied AI and data" />
+    <img src="https://img.shields.io/badge/Base-Tunisia-e70013?style=flat-square" alt="Based in Tunisia" />
   </p>
 </div>
 
 ---
 
-## The point of view
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" alt="Waving hand" /> Hi, I'm Koussay
 
-*The boy who teaches machines to say: I don't know.*
+<img align="right" width="170" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" alt="Rotating Earth" />
 
 I'm a student and developer from Tunisia interested in applied AI, health informatics, agriculture, climate risk, and thoughtful user experience. I like building small systems with clear limits and readable behavior.
 
----
+> 🔬 **Honesty engineering** — *the boy who teaches machines to say: I don't know.* My research and my projects ask the same question: what does a system owe the people who trust it, when its data cannot be trusted?
 
-## Featured reel
-
-### [CropGuide AI](https://github.com/amkkoussay/cropguide-ai)
-
-Agricultural decision support with explicit uncertainty, data audits, and tests.
-
-*JavaScript · React · Node.js*
-
-### [Rain2Risk](https://github.com/amkkoussay/rain2risk)
-
-Transparent relative flood-risk screening with documented data limits and tests. Live cut: [rain2risk.vercel.app](https://rain2risk.vercel.app)
-
-*Python · Flask*
-
-> *A note before the credits:* The projects above are exploratory software. CropGuide AI is not a substitute for agricultural expertise; Rain2Risk is a screening score, not an official warning or forecast.
+<br clear="right" />
 
 ---
 
-## In the current cut
-
-**[AI-Based Clinical Decision-Support System Robustness Under Unreliable Patient Data](https://doi.org/10.5281/zenodo.22883408)** — a narrative review and thematic synthesis published on Zenodo in 2026. Fifteen studies, one question: what does a clinical AI owe the patient when the data it is fed cannot be trusted?
-
----
-
-## Production palette
-
-Python · JavaScript · Flask · React · Vite · SQLite · Git
+## 🛠️ My toolbox
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkkoussay&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Most used languages" />
+  <img src="https://skillicons.dev/icons?i=python,js,flask,react,vite,sqlite,git,github,vscode,html,css" alt="Python, JavaScript, Flask, React, Vite, SQLite, Git, GitHub, VS Code, HTML, CSS" />
 </p>
 
-*Languages at the last screening: HTML 52% · Python 32% · JavaScript 10% · CSS 4% · TypeScript 2%*
+<p align="center"><i>Python · JavaScript · Flask · React · Vite · SQLite · Git — small stack, shipped often.</i></p>
 
 ---
 
-## Signal
+## 🚀 Featured projects
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amkkoussay&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub stats for amkkoussay" />
+  <a href="https://github.com/amkkoussay/rain2risk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amkkoussay&amp;repo=rain2risk&amp;theme=synthwave&amp;hide_border=true" alt="Rain2Risk repository card" /></a>
+  <a href="https://github.com/amkkoussay/cropguide-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amkkoussay&amp;repo=cropguide-ai&amp;theme=synthwave&amp;hide_border=true" alt="CropGuide AI repository card" /></a>
 </p>
 
-<p align="center"><i>15 public repositories · 77 contributions · 10 stars — as of this cut.</i></p>
+- 🌧️ **[Rain2Risk](https://github.com/amkkoussay/rain2risk)** — transparent relative flood-risk screening with documented data limits and tests. **Live:** [rain2risk.vercel.app](https://rain2risk.vercel.app)
+- 🌾 **[CropGuide AI](https://github.com/amkkoussay/cropguide-ai)** — agricultural decision support with explicit uncertainty, data audits, and tests.
 
-![Contribution chart for amkkoussay](https://ghchart.rshah.org/2dd4bf/amkkoussay)
+> *Honest limits, printed on the label: both are exploratory software. CropGuide AI is not a substitute for agricultural expertise; Rain2Risk is a screening score, not an official warning or forecast.*
 
----
+<details>
+<summary><b>📂 More builds — click to open</b></summary>
 
-## Play the next move
+<br />
 
-```
-  a b c d e f g h
-8 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
-7 ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
-6 · · · · · · · ·
-5 · · · · · · · ·
-4 · · · · · · · ·
-3 · · · · · · · ·
-2 ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
-1 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
-```
+| Project | What it is |
+|---|---|
+| [Bakery ERP Pro](https://github.com/amkkoussay/bakery-erp-pro) | Full ERP for a bakery business — stock, sales, production |
+| [AI Health Assistant](https://github.com/amkkoussay/ai-health-assistant) | Health-assistant prototype built on careful, limited claims |
+| [Clinique](https://github.com/amkkoussay/clinique) | Clinic management system |
+| [Finance Platform](https://github.com/amkkoussay/finance-platform) | Personal-finance tracking platform |
 
-*The board is set. The next move is mine.*
+</details>
 
 ---
 
-## Keep the story moving
+## 📄 Research spotlight
 
-**Reach the director:** [Portfolio](https://koussay-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/koussay-mehdouani-45560a389) · [Research](https://doi.org/10.5281/zenodo.22883408) · [GitHub](https://github.com/amkkoussay)
+**[AI-Based Clinical Decision-Support System Robustness Under Unreliable Patient Data](https://doi.org/10.5281/zenodo.22883408)** — a narrative review and thematic synthesis published on Zenodo in 2026. Fifteen studies, six robustness themes, one conclusion: a clinical AI that cannot say *"I don't know"* is not safe yet.
 
-For more projects and background, visit my [portfolio](https://koussay-portfolio.vercel.app/).
+<p>
+  <a href="https://doi.org/10.5281/zenodo.22883408"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22883408-blue?style=for-the-badge" alt="DOI 10.5281/zenodo.22883408" /></a>
+</p>
+
+---
+
+## 📊 The numbers, live
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amkkoussay&amp;show_icons=true&amp;theme=synthwave&amp;hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkkoussay&amp;layout=compact&amp;theme=synthwave&amp;hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amkkoussay&amp;theme=radical&amp;hide_border=true" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amkkoussay&amp;theme=radical" alt="Profile details and contribution graph" />
+</p>
+
+<img width="100%" src="https://ghchart.rshah.org/e935c1/amkkoussay" alt="Contribution chart" />
+
+---
+
+## 🎓 Certificates I'm proud of
+
+<details>
+<summary><b>🏅 Verified highlights — click to open</b></summary>
+
+<br />
+
+- **CS50AI — Introduction to AI with Python** · Harvard / CS50 — [verify](https://cs50.harvard.edu/certificates/6705d1c7-ac82-4ff6-9acb-69c41451c193)
+- **Elements of AI** · University of Helsinki / MinnaLearn (2 ECTS) — [verify](https://certificates.mooc.fi/validate/4xcr09f8z9d)
+- **AI in Healthcare Specialization** · Stanford Online (Coursera)
+- **AI Ethics** · UNESCO
+- **AI in Government** · Oxford Saïd
+
+</details>
+
+---
+
+<p align="center">
+  <img width="430" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer at work" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="A quote to build by" />
+</p>
 
 <div align="center">
-<sub>Directed from Tunis · © 2026 Koussay Mehdouani</sub>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EE7752,23:E73C7E,50:23A6D5,100:23D5AB&amp;height=110&amp;section=footer" alt="" />
+  <sub>Thanks for stopping by — the next build is already on the desk. · © 2026 Koussay Mehdouani</sub>
 </div>
