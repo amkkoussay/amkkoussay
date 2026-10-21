@@ -1,21 +1,21 @@
 <!-- Profile README for github.com/amkkoussay — Colorful & interactive edition -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EE7752,23:E73C7E,50:23A6D5,100:23D5AB&amp;height=200&amp;section=header&amp;text=Koussay%20Mehdouani&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Programmer%20and%20poet%20%E2%80%94%20building%20careful%20software&amp;descAlignY=62&amp;descAlign=50" alt="Koussay Mehdouani — programmer and poet" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050A1F,45:0B2A6B,75:0369A1,100:0E7490&amp;height=200&amp;section=header&amp;text=Koussay%20Mehdouani&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Programmer%20and%20poet%20%E2%80%94%20building%20careful%20software&amp;descAlignY=62&amp;descAlign=50" alt="Koussay Mehdouani — programmer and poet" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;pause=900&amp;color=FF6EC7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Applied+AI+for+real+problems;Honesty+engineering;Rain2Risk+%C2%B7+CropGuide+AI+%C2%B7+Clinical+AI+research" alt="Applied AI for real problems — honesty engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Applied+AI+for+real+problems;Honesty+engineering;Rain2Risk+%C2%B7+CropGuide+AI+%C2%B7+Clinical+AI+research" alt="Applied AI for real problems — honesty engineering" />
 
   <p>
-    <a href="https://koussay-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/koussay-mehdouani-45560a389"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://doi.org/10.5281/zenodo.22883408"><img src="https://img.shields.io/badge/Zenodo-Paper-0D3B66?style=for-the-badge&amp;logo=zenodo&amp;logoColor=white" alt="Zenodo paper" /></a>
-    <a href="mailto:koussaymehdouani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
+    <a href="https://koussay-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B2A6B?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/koussay-mehdouani-45560a389"><img src="https://img.shields.io/badge/LinkedIn-0B2A6B?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://doi.org/10.5281/zenodo.22883408"><img src="https://img.shields.io/badge/Zenodo-Paper-0B2A6B?style=for-the-badge&amp;logo=zenodo&amp;logoColor=white" alt="Zenodo paper" /></a>
+    <a href="mailto:koussaymehdouani@gmail.com"><img src="https://img.shields.io/badge/Gmail-0B2A6B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail" /></a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open_to-Training-brightgreen?style=flat-square" alt="Open to training" />
-    <img src="https://img.shields.io/badge/Bac-2028-blueviolet?style=flat-square" alt="Bac 2028" />
-    <img src="https://img.shields.io/badge/Focus-Applied_AI_%26_Data-ff69b4?style=flat-square" alt="Focus: applied AI and data" />
-    <img src="https://img.shields.io/badge/Base-Tunisia-e70013?style=flat-square" alt="Based in Tunisia" />
+    <img src="https://img.shields.io/badge/Open_to-Training-0E7490?style=flat-square" alt="Open to training" />
+    <img src="https://img.shields.io/badge/Bac-2028-1D4ED8?style=flat-square" alt="Bac 2028" />
+    <img src="https://img.shields.io/badge/Focus-Applied_AI_%26_Data-0369A1?style=flat-square" alt="Focus: applied AI and data" />
+    <img src="https://img.shields.io/badge/Base-Tunisia-0F766E?style=flat-square" alt="Based in Tunisia" />
   </p>
 </div>
 
@@ -46,8 +46,8 @@ I'm a student and developer from Tunisia interested in applied AI, health inform
 ## 🚀 Featured projects
 
 <p align="center">
-  <a href="https://github.com/amkkoussay/rain2risk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amkkoussay&amp;repo=rain2risk&amp;theme=synthwave&amp;hide_border=true" alt="Rain2Risk repository card" /></a>
-  <a href="https://github.com/amkkoussay/cropguide-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amkkoussay&amp;repo=cropguide-ai&amp;theme=synthwave&amp;hide_border=true" alt="CropGuide AI repository card" /></a>
+  <a href="https://github.com/amkkoussay/rain2risk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amkkoussay&amp;repo=rain2risk&amp;theme=algolia&amp;hide_border=true" alt="Rain2Risk repository card" /></a>
+  <a href="https://github.com/amkkoussay/cropguide-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amkkoussay&amp;repo=cropguide-ai&amp;theme=algolia&amp;hide_border=true" alt="CropGuide AI repository card" /></a>
 </p>
 
 - 🌧️ **[Rain2Risk](https://github.com/amkkoussay/rain2risk)** — transparent relative flood-risk screening with documented data limits and tests. **Live:** [rain2risk.vercel.app](https://rain2risk.vercel.app)
@@ -76,7 +76,7 @@ I'm a student and developer from Tunisia interested in applied AI, health inform
 **[AI-Based Clinical Decision-Support System Robustness Under Unreliable Patient Data](https://doi.org/10.5281/zenodo.22883408)** — a narrative review and thematic synthesis published on Zenodo in 2026. Fifteen studies, six robustness themes, one conclusion: a clinical AI that cannot say *"I don't know"* is not safe yet.
 
 <p>
-  <a href="https://doi.org/10.5281/zenodo.22883408"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22883408-blue?style=for-the-badge" alt="DOI 10.5281/zenodo.22883408" /></a>
+  <a href="https://doi.org/10.5281/zenodo.22883408"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22883408-0369A1?style=for-the-badge" alt="DOI 10.5281/zenodo.22883408" /></a>
 </p>
 
 ---
@@ -84,19 +84,19 @@ I'm a student and developer from Tunisia interested in applied AI, health inform
 ## 📊 The numbers, live
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amkkoussay&amp;show_icons=true&amp;theme=synthwave&amp;hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkkoussay&amp;layout=compact&amp;theme=synthwave&amp;hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=amkkoussay&amp;show_icons=true&amp;theme=algolia&amp;hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkkoussay&amp;layout=compact&amp;theme=algolia&amp;hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amkkoussay&amp;theme=radical&amp;hide_border=true" alt="Contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amkkoussay&amp;theme=tokyo-night&amp;hide_border=true" alt="Contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amkkoussay&amp;theme=radical" alt="Profile details and contribution graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amkkoussay&amp;theme=tokyo-night" alt="Profile details and contribution graph" />
 </p>
 
-<img width="100%" src="https://ghchart.rshah.org/e935c1/amkkoussay" alt="Contribution chart" />
+<img width="100%" src="https://ghchart.rshah.org/38BDF8/amkkoussay" alt="Contribution chart" />
 
 ---
 
@@ -122,10 +122,10 @@ I'm a student and developer from Tunisia interested in applied AI, health inform
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" alt="A quote to build by" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=algolia" alt="A quote to build by" />
 </p>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EE7752,23:E73C7E,50:23A6D5,100:23D5AB&amp;height=110&amp;section=footer" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050A1F,45:0B2A6B,75:0369A1,100:0E7490&amp;height=110&amp;section=footer" alt="" />
   <sub>Thanks for stopping by — the next build is already on the desk. · © 2026 Koussay Mehdouani</sub>
 </div>
