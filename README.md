@@ -110,7 +110,6 @@ I'm a student and developer from Tunisia interested in applied AI, health inform
 - **CS50AI — Introduction to AI with Python** · Harvard / CS50 — [verify](https://cs50.harvard.edu/certificates/6705d1c7-ac82-4ff6-9acb-69c41451c193)
 - **Elements of AI** · University of Helsinki / MinnaLearn (2 ECTS) — [verify](https://certificates.mooc.fi/validate/4xcr09f8z9d)
 - **AI in Healthcare Specialization** · Stanford Online (Coursera)
-- **AI Ethics** · UNESCO
 - **AI in Government** · Oxford Saïd
 
 </details>
