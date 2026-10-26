@@ -86,7 +86,7 @@ I'm a student and developer from Tunisia interested in applied AI, health inform
 **[Bias Bounty: Mapping Equity Challenge](https://zindi.world/competitions/bias-bounty-mapping-equity-challenge)** on Zindi (Humane Intelligence × Radiant Earth) — estimating Overture Maps coverage gaps across 9,794 US census tracts with a fully documented, reproducible, no-training methodology. The challenge closes 31 Oct 2026; the final ranking rests on a private leaderboard.
 
 - 📉 Public RMSE **0.1966 → 0.1042** across five logged submissions — the honest route: a rule-based index, a wrong denominator found and fixed, then shrinkage toward regional means.
-- 🏅 Badges and full record on my Zindi profile — currently ranked **#9,686 among 100,000+ AI builders** on the platform.
+- 🏅 Zindi badges earned so far: **First Steps** (first submission) · **Go-Getter** (profile completed) · **Zindian** (verified profile) — and ranked **#9,686 among 100,000+ AI builders** on the platform.
 - 📝 The complete methodology write-up (including the failed first version, and why) goes public with the project repo once the challenge closes.
 
 <p>
