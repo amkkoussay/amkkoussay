@@ -25,7 +25,7 @@
 
 <img align="right" width="170" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" alt="Rotating Earth" />
 
-I'm a student and developer from Tunisia interested in applied AI, health informatics, agriculture, climate risk, and thoughtful user experience. I like building small systems with clear limits and readable behavior.
+I'm a Tunisian high-school student (Sciences de l'Informatique, bac 2028) building applied-AI and health tools that know their limits. I work on applied AI, health informatics, agriculture, and climate risk — small systems with clear limits and readable behavior.
 
 > 🔬 **Honesty engineering** — *the boy who teaches machines to say: I don't know.* My research and my projects ask the same question: what does a system owe the people who trust it, when its data cannot be trusted?
 
@@ -62,7 +62,7 @@ I'm a student and developer from Tunisia interested in applied AI, health inform
 
 | Project | What it is |
 |---|---|
-| [Bakery ERP Pro](https://github.com/amkkoussay/bakery-erp-pro) | Full ERP for a bakery business — stock, sales, production |
+| [Bakery ERP Pro](https://github.com/amkkoussay/bakery-erp-pro) | Bakery management demo — stock, sales, production (a demo project, not production ERP) |
 | [AI Health Assistant](https://github.com/amkkoussay/ai-health-assistant) | Health-assistant prototype built on careful, limited claims |
 | [Clinique](https://github.com/amkkoussay/clinique) | Clinic management system |
 | [Finance Platform](https://github.com/amkkoussay/finance-platform) | Personal-finance tracking platform |
@@ -73,7 +73,7 @@ I'm a student and developer from Tunisia interested in applied AI, health inform
 
 ## 📄 Research spotlight
 
-**[AI-Based Clinical Decision-Support System Robustness Under Unreliable Patient Data](https://doi.org/10.5281/zenodo.22883408)** — a narrative review and thematic synthesis published on Zenodo in 2026. Fifteen studies, six robustness themes, one conclusion: a clinical AI that cannot say *"I don't know"* is not safe yet.
+**[AI-Based Clinical Decision-Support System Robustness Under Unreliable Patient Data](https://doi.org/10.5281/zenodo.22883408)** — a narrative review and thematic synthesis, published as a preprint on Zenodo in 2026. Fifteen studies, six robustness themes, one conclusion: a clinical AI that cannot say *"I don't know"* is not safe yet.
 
 <p>
   <a href="https://doi.org/10.5281/zenodo.22883408"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22883408-0369A1?style=for-the-badge" alt="DOI 10.5281/zenodo.22883408" /></a>
@@ -132,10 +132,13 @@ I'm a student and developer from Tunisia interested in applied AI, health inform
 
 - **CS50AI — Introduction to AI with Python** · Harvard / CS50 — [verify](https://cs50.harvard.edu/certificates/6705d1c7-ac82-4ff6-9acb-69c41451c193)
 - **Elements of AI** · University of Helsinki / MinnaLearn (2 ECTS) — [verify](https://certificates.mooc.fi/validate/4xcr09f8z9d)
-- **AI in Healthcare Specialization** · Stanford Online (Coursera)
-- **AI in Government** · Oxford Saïd
 
 </details>
+
+### Certificates
+
+- **AI in Healthcare Specialization** · Stanford Online (Coursera)
+- **AI in Government** · Oxford Saïd
 
 ---
 
