@@ -83,10 +83,23 @@ I'm a Tunisian high-school student (Sciences de l'Informatique, bac 2028) buildi
 
 ## 🏆 Competitions
 
-**[Bias Bounty: Mapping Equity Challenge](https://zindi.world/competitions/bias-bounty-mapping-equity-challenge)** on Zindi (Humane Intelligence × Radiant Earth) — estimating Overture Maps coverage gaps across 9,794 US census tracts with a fully documented, reproducible, no-training methodology. The challenge closes 31 Oct 2026; the final ranking rests on a private leaderboard.
+I compete on **[Zindi](https://zindi.world/users/koussayy)** as **koussayy** — ranked **#7,237 among 100,000+ AI builders** (best rank #7,208) · **49 points** · **56 submissions across 5 challenges** *(standings as shown on Zindi, 10 Nov 2026)*.
 
-- 📉 Public RMSE **0.1966 → 0.1042** across five logged submissions — the honest route: a rule-based index, a wrong denominator found and fixed, then shrinkage toward regional means.
-- 🏅 Zindi badges earned so far — and ranked **#9,686 among 100,000+ AI builders** on the platform:
+### 🟢 Active
+
+- **[Financial Stress Prediction Challenge](https://zindi.world/competitions/financial-stress-prediction-challenge-2026-10-09)** (Beginner Track, October Edition) — predicting financial stress from survey data, scored on log loss + ROC-AUC. **Rank #56 of 196**, best public score **0.7360881**, 25 submissions. Closes 29 Nov 2026.
+
+### ✅ Completed
+
+- **[Bias Bounty: Mapping Equity Challenge](https://zindi.world/competitions/bias-bounty-mapping-equity-challenge)** (Humane Intelligence × Radiant Earth) — estimating Overture Maps coverage gaps across 9,794 US census tracts with a fully documented, reproducible, no-training methodology: a rule-based index, a wrong denominator found and fixed, then shrinkage toward regional means. **Final standing #132 of 505**, private score **0.085128854** (public 0.081706769), 31 submissions. Closed 1 Nov 2026; under code review, with rankings provisional until 22 Nov 2026.
+
+### 📅 Joined — upcoming
+
+- **[Green Rising Methane Innovation Challenge](https://zindi.world/competitions/green-rising-methane-innovation-challenge)** — launches 13 Nov 2026, closes 14 Feb 2027.
+- **[AMD Global Physical AI Behavioral Safety Challenge](https://zindi.world/competitions/amd-global-physical-ai-safety-challenge)** — active, closes 31 Jan 2027 (registered; no submissions yet).
+- **[AI Agents for RAN Challenge](https://zindi.world/competitions/ai-agents-for-ran-challenge)** by ITU — starts 27 Nov 2026, closes 5 Feb 2027.
+
+- 🏅 Zindi badges earned so far:
 
 <p>
   <a href="https://zindi.world/users/koussayy"><img height="88" src="First%20Steps.png" alt="Zindi badge — First Steps (first submission)" /></a>
@@ -94,12 +107,11 @@ I'm a Tunisian high-school student (Sciences de l'Informatique, bac 2028) buildi
   <a href="https://zindi.world/users/koussayy"><img height="88" src="Zindian.png" alt="Zindi badge — Zindian (verified profile)" /></a>
 </p>
 <p><sub>First Steps · Go-Getter · Zindian</sub></p>
-- 📝 The complete methodology write-up (including the failed first version, and why) goes public with the project repo once the challenge closes.
 
 <p>
   <a href="https://zindi.world/users/koussayy"><img src="https://img.shields.io/badge/Zindi-koussayy-0B2A6B?style=for-the-badge" alt="Zindi profile — koussayy" /></a>
-  <a href="https://zindi.world/competitions/bias-bounty-mapping-equity-challenge"><img src="https://img.shields.io/badge/Bias_Bounty-Mapping_Equity-0369A1?style=for-the-badge" alt="Bias Bounty: Mapping Equity Challenge" /></a>
-  <img src="https://img.shields.io/badge/Best_public_RMSE-0.1042-0E7490?style=for-the-badge" alt="Best public RMSE 0.1042" />
+  <a href="https://zindi.world/competitions/financial-stress-prediction-challenge-2026-10-09"><img src="https://img.shields.io/badge/Financial_Stress-Rank_%2356-0369A1?style=for-the-badge" alt="Financial Stress — rank #56" /></a>
+  <img src="https://img.shields.io/badge/Best_public_score-0.7360881-0E7490?style=for-the-badge" alt="Best public score 0.7360881" />
 </p>
 
 ---
