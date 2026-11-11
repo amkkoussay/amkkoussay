@@ -81,6 +81,17 @@ I'm a Tunisian high-school student (Sciences de l'Informatique, bac 2028) buildi
 
 ---
 
+## 🤝 Open Source Contributions
+
+Merged work in established projects — every entry links to the merged pull request.
+
+- **[pandas](https://github.com/pandas-dev/pandas)** — fixed a silent data bug: `pd.to_numeric(..., errors="coerce")` on Arrow-backed strings stored a plain float `NaN` instead of `pd.NA`, so the missing values escaped `isna()` — and next to an existing missing entry, a neighbouring value could be duplicated in their place. Root-caused inside `to_numeric`, fixed with regression tests, and merged into `main` for **pandas 3.2.0**, where I am credited in the release notes. → [PR #71991](https://github.com/pandas-dev/pandas/pull/71991) · closes [#67949](https://github.com/pandas-dev/pandas/issues/67949)
+- **[Microsoft Azure documentation](https://github.com/MicrosoftDocs/azure-docs)** — two merged fixes in Microsoft's official Azure docs: a duplicated word in the Azure Monitor metrics article ([PR #128901](https://github.com/MicrosoftDocs/azure-docs/pull/128901)) and in the Blob Storage CLI quickstart ([PR #128902](https://github.com/MicrosoftDocs/azure-docs/pull/128902)).
+
+*Currently under review: [curl](https://github.com/curl/curl/pull/23887) · [scikit-learn](https://github.com/scikit-learn/scikit-learn/pull/35365) · [xarray](https://github.com/pydata/xarray/pull/11866) · [NVIDIA](https://github.com/NVIDIA/structured-data-models-client/pull/91) · [lighteval](https://github.com/huggingface/lighteval/pull/1480)*
+
+---
+
 ## 🏆 Competitions
 
 I compete on **[Zindi](https://zindi.world/users/koussayy)** as **koussayy** — ranked **#7,237 among 100,000+ AI builders** (best rank #7,208) · **49 points** · **56 submissions across 5 challenges** *(standings as shown on Zindi, 10 Nov 2026)*.
