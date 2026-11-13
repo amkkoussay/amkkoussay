@@ -46,10 +46,15 @@ I'm a Tunisian high-school student (Sciences de l'Informatique, bac 2028) buildi
 ## 🚀 Featured projects
 
 <p align="center">
+  <a href="https://github.com/amkkoussay/Mersad"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amkkoussay&amp;repo=Mersad&amp;theme=algolia&amp;hide_border=true" alt="MIRSAD repository card" /></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/amkkoussay/rain2risk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amkkoussay&amp;repo=rain2risk&amp;theme=algolia&amp;hide_border=true" alt="Rain2Risk repository card" /></a>
   <a href="https://github.com/amkkoussay/cropguide-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=amkkoussay&amp;repo=cropguide-ai&amp;theme=algolia&amp;hide_border=true" alt="CropGuide AI repository card" /></a>
 </p>
 
+- 🔭 **[MIRSAD — مِرصاد](https://github.com/amkkoussay/Mersad)** — one shared, living memory for every AI agent: bi-temporal facts, decisions stored with their reasons and evidence, and a cross-agent conflict queue only the owner resolves — served over MCP with a live graph view. Local-first; zero LLM in the write path.
 - 🌧️ **[Rain2Risk](https://github.com/amkkoussay/rain2risk)** — transparent relative flood-risk screening with documented data limits and tests. **Live:** [rain2risk.vercel.app](https://rain2risk.vercel.app)
 - 🌾 **[CropGuide AI](https://github.com/amkkoussay/cropguide-ai)** — agricultural decision support with explicit uncertainty, data audits, and tests.
 
